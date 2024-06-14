@@ -2,4 +2,4 @@ FROM ubuntu
 
 WORKDIR /app
 
-COPY . .
+COPY . /app
