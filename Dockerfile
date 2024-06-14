@@ -1,3 +1,3 @@
-from ubuntu
+FROM ubuntu
 
-workdir /app
+WORKDIR /app
