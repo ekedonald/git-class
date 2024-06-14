@@ -1,5 +1,4 @@
 FROM ubuntu
 
-WORKDIR /app
+WORKDIR /app/scr
 
-COPY . /app
